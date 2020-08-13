@@ -33,12 +33,6 @@ body{
     margin-top: 2%;
     margin-left: 46%;
 }
-button a{
-    font-size: 20px;
-    text-decoration: none;
-    color: black;
-    text-align: center;
-}
 button{
     width: 100px;
     height: 50px;
